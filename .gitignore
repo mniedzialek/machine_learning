@@ -1,0 +1,10 @@
+# Large dataset / raster files (>100MB exceeds GitHub limits)
+*.tif
+*.tiff
+
+# Python & Jupyter cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+env/
